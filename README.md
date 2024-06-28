@@ -10,7 +10,6 @@ This is a Flutter application that uses the [Rick and Morty GraphQL API](https:/
 - View detailed information about each character, including their name, status, species, gender, and image
 - Pagination support to load more characters as the user scrolls
 
-
 ## Prerequisites
 
 - Flutter SDK version 3.0.0 or higher
@@ -57,33 +56,34 @@ The app displays a list of characters from the Rick and Morty show. Users can ta
 The app uses the `graphql_flutter` package to communicate with the GraphQL API and the `flutter_riverpod` package for state management. Offline support is provided by caching the character data using the `cached_network_image` package.
 
 ## Course Outline
+
 - [x] Download Android Studio
-   https://developer.android.com/studio
-    - [x] Install command line tool
+      https://developer.android.com/studio
+  - [x] Install command line tool
 - [x] Install Dart & Flutter
-   https://docs.flutter.dev/get-started/install
+      https://docs.flutter.dev/get-started/install
 - [x] Install Flutter extension
 - [x] Run the first app
 
-- [x] Widgets  
-    - [x] Layout Widgets
-    - [x] Styling Widgets
-    - [x] Animation Widgets
+- [x] Widgets
+
+  - [x] Layout Widgets
+  - [x] Styling Widgets
+  - [x] Animation Widgets
 
 - [x] 3rd party packages
 - [x] Folder Structure
 - [x] GraphQL
-    - [x] flutter_graphql
+  - [x] flutter_graphql
 - [ ] RiverPod
 
 ## Assignment
+
 - Detail Page
-- Search  by name
+- Search by name
 - Additional Filter
 
 ## Recommended Courses
-
-
 
 ## License
 
